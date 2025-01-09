@@ -15,8 +15,8 @@
 #### Author Extracted/Provided Features (11 + 2 features)
 
 
-| Model         | Accuracy (OFFLINE) | Precision (OFFLINE) | Execution Speed (&mu;s) | Memory Used (KB) (Total) | Flash Size (KB) (Total) | Power consumption | Frequency (DFS OFF) |
-|---------------|--------------------|---------------------|-------------------------|--------------------------|-------------------------|-------------------|---------------------|
-| Decision Tree | 87%                | 86%                 | 2   (avg)               | 18.480                   | 27.7825                 | 235 mW (avg)      | 240  MHz            |
+| Model         | Accuracy (OFFLINE) | Precision (OFFLINE) | Execution Speed (&mu;s) | Memory Used (KB) (Model) | Memory Used (KB) (Total) | Flash/Model Size (KB) (Model) | Flash Size (KB) (Total) | Power consumption | Frequency (DFS OFF) |
+|---------------|--------------------|---------------------|-------------------------|--------------------------|--------------------------|-------------------------------|-------------------------|-------------------|---------------------|
+| Decision Tree | 90%                | 90%                 | TBA   (avg)             | TBA                      | 18.480                   | TBA                           | 264.621                 | 235 mW (avg)      | 240  MHz            |
 
 **Note:** While calculating memory and flash we used power of 10 instead of power of 2.
